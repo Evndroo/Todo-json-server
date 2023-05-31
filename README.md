@@ -18,4 +18,4 @@ npm install
 npm start
 ```
 
-4. Follow the how to use of the front-end repository
+4. Follow the how to use of the [front-end repository](https://github.com/Evndroo/Todo-front-angular)
